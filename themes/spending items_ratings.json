@@ -1,0 +1,137 @@
+{
+  "New smartphone": {
+    "rating": 915.5926471956792,
+    "plays": 6,
+    "wins": 0,
+    "losses": 6,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 0,
+    "lowest_loss": 16.0
+  },
+  "New laptop": {
+    "rating": 1043.3149740362153,
+    "plays": 5,
+    "wins": 4,
+    "losses": 1,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 16.75452447402587,
+    "lowest_loss": 14.574650777870055
+  },
+  "Tablet/Ipad": {
+    "rating": 874.516178638737,
+    "plays": 10,
+    "wins": 0,
+    "losses": 10,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 0,
+    "lowest_loss": 16.0
+  },
+  "Car": {
+    "rating": 955.8522373061228,
+    "plays": 7,
+    "wins": 2,
+    "losses": 5,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 15.263693206478006,
+    "lowest_loss": 16.064562249984153
+  },
+  "Music subscription": {
+    "rating": 1113.7295028513513,
+    "plays": 8,
+    "wins": 8,
+    "losses": 0,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 17.222701979581878,
+    "lowest_loss": 0
+  },
+  "New golf driver": {
+    "rating": 1021.5690282326746,
+    "plays": 6,
+    "wins": 4,
+    "losses": 2,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 16.415113230867533,
+    "lowest_loss": 16.754524474025867
+  },
+  "New sneakers": {
+    "rating": 1023.9415372311022,
+    "plays": 8,
+    "wins": 5,
+    "losses": 3,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 16.66876431901554,
+    "lowest_loss": 17.495853306544426
+  },
+  "Coffee machine": {
+    "rating": 964.9054306742468,
+    "plays": 10,
+    "wins": 4,
+    "losses": 6,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 16.0,
+    "lowest_loss": 16.5050070454397
+  },
+  "Italy trip": {
+    "rating": 1056.5574041536502,
+    "plays": 6,
+    "wins": 5,
+    "losses": 1,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 16.0,
+    "lowest_loss": 16.736306793521994
+  },
+  "Local road trip": {
+    "rating": 1069.0725206201926,
+    "plays": 11,
+    "wins": 8,
+    "losses": 3,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 17.495853306544426,
+    "lowest_loss": 17.90019144956212
+  },
+  "Waterproof backpack": {
+    "rating": 880.4912130338366,
+    "plays": 9,
+    "wins": 0,
+    "losses": 9,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 0,
+    "lowest_loss": 16.033764815239795
+  },
+  "EDC multi-tool": {
+    "rating": 1012.545942500306,
+    "plays": 7,
+    "wins": 4,
+    "losses": 3,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 16.064562249984156,
+    "lowest_loss": 16.668764319015544
+  },
+  "Airconditioner": {
+    "rating": 1022.2511588936256,
+    "plays": 8,
+    "wins": 5,
+    "losses": 3,
+    "date_added": "2025-05-28T21:11:30.491115",
+    "biggest_win": 16.0337648152398,
+    "lowest_loss": 16.0
+  },
+  "New cooking set (pots/pans)": {
+    "rating": 1060.9578941168477,
+    "plays": 6,
+    "wins": 5,
+    "losses": 1,
+    "date_added": "2025-05-28T21:22:58.943527",
+    "biggest_win": 17.90019144956212,
+    "lowest_loss": 14.105776182739998
+  },
+  "Couch": {
+    "rating": 984.7023305154123,
+    "plays": 1,
+    "wins": 0,
+    "losses": 1,
+    "date_added": "2025-05-28T21:22:58.943527",
+    "biggest_win": 0,
+    "lowest_loss": 15.297669484587637
+  }
+}
