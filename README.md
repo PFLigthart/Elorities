@@ -13,8 +13,8 @@ A terminal-based priority ranking app using ELO ratings. Rank items within theme
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/elorities.git
-cd elorities
+git clone https://github.com/PFLigthart/Elorities.git
+cd Elorities
 python ranker.py
 ```
 
